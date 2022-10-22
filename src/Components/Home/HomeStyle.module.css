@@ -1,12 +1,50 @@
 .Homecontainer{
-    border:5px solid red;
+    /* border:5px solid red; */
     height: 100vh;
     width: 100%;
     font-family: sans-serif;
+    background-color: #ffff;
+    color: black;
 
 }
 
 .homeTopDiscountBanner{
     background-color: #10693c;
-    height: 80px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffff;
 }
+.navbarmid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbarend{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px
+}
+.NavbarBottomStrip{
+    height: 50px;
+    background-color: #e6e6e6 ;
+    display: flex;
+    justify-content: center;
+    gap:"20px";
+    align-items: center;
+  
+}
+.NavbarBottomStrip > dic{
+    color: #858687;
+}
+
+.sliderImages > images{
+    width: 100%;
+    border:5px solid blue;
+}
+
+
+
+
