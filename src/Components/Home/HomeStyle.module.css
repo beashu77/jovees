@@ -1,0 +1,12 @@
+.Homecontainer{
+    border:5px solid red;
+    height: 100vh;
+    width: 100%;
+    font-family: sans-serif;
+
+}
+
+.homeTopDiscountBanner{
+    background-color: #10693c;
+    height: 80px;
+}
