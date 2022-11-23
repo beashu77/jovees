@@ -113,14 +113,14 @@ const Homepage = () => {
         })}
       </Box>
       <Box>
-        <Box W={"100%"}    className={style.sliderImages}>
+        <Box w={"auto"}    className={style.sliderImages}>
           <SimpleImageSlider
             width={"100%"}
             height={354}
             images={images}
             showBullets={true}
             showNavs={true}
-         
+            className={style.slider}
           />
         </Box>
       </Box>
