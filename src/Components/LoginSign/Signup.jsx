@@ -1,8 +1,11 @@
-import React from 'react'
+import React from 'react';
+import style from "./SignStyle.module.css"
 
 const Signup = () => {
   return (
-    <div>Signup</div>
+    <div>
+      
+    </div>
   )
 }
 
