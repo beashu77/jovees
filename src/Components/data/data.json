@@ -159,7 +159,8 @@
       "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/c/o/coffee_lip_scrub_front.jpg",
       "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/c/o/coffee_lip_scrub_back.jpg"
     ]
-  }, {
+  }, 
+  {
     "id": 2,
     "des": " Sugar & Rose Petal Replenishing Lip Balm",
     "MainImg": "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/s/u/sugar_rose_petal_lip_balm_front.jpg",
@@ -257,6 +258,165 @@
       "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/f/a/face_mask_back.png"
     ]
   }],
-  "joveesAging": [],
-  "joveesGlow": []
+  "joveesAging": [
+    {
+      "id": 1,
+      "des": "Revita Ageing Face Mask",
+      "MainImg": "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/f/a/face_mask_front.png",
+      "title": "Revita Ageing Face Mask",
+      "category": "Ageing",
+      "rating": 4.5,
+      "price": 265,
+      "Review": 2,
+      "size": [
+      75
+      ],
+      "imgs": [
+        "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/f/a/face_mask_front.png",
+        "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/f/a/face_mask_back.png"
+      ]
+    },
+    {
+      "id": 2,
+      "des": "Be the first to review this product",
+      "MainImg": "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/i/m/image1_6_.jpg",
+      "title": "Revita Ageing Skin Recovery Serum",
+      "category": "Ageing",
+      "rating": 5,
+      "price": 565,
+      "Review": 7,
+      "size": [
+      30
+      ],
+      "imgs": [
+        "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/i/m/image1_6_.jpg",
+        "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/i/m/image2.png",
+        "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/i/m/image4_4_.jpg",
+        "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/i/m/image5_3_.jpg",
+        "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/i/m/image6_1_.jpg",
+        "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/r/e/revita_ageing_serum_front.png",
+        "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/i/m/image3.png"
+      ]
+    },
+    {
+      "id": 3,
+      "des": "Revita Ageing Skin Recovery Cream",
+      "MainImg": "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/i/m/image1_7__1.jpg",
+      "title": "Revita Ageing Skin Recovery Cream",
+      "category": "Ageing",
+      "rating": 1,
+      "price": 455,
+      "Review": 5,
+      "size": [
+      50
+      ],
+      "imgs": [
+        "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/i/m/image1_7__1.jpg",
+        "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/r/e/revita_ageing_cream_front.png",
+        "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/i/m/image2_1__1.png",
+        "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/i/m/image4_5__1.jpg",
+        "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/r/e/revita_ageing_cream_back.png",
+        "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/i/m/image1_7__1.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "des": "Revita Ageing Cleansing Gel",
+      "MainImg": "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/i/m/image1_5_.jpg",
+      "title": "Revita Ageing Cleansing Gel",
+      "category": "Ageing",
+      "rating": 5,
+      "price": 215,
+      "Review": 1,
+      "size": [
+      75
+      ],
+      "imgs": [
+        "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/i/m/image1_5_.jpg",
+        "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/b/a/banner-4_2_.jpg",
+        "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/b/a/banner-2_3_.jpg",
+        "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/c/l/cleansing_gel.png",
+        "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/c/l/cleansing_gel_back.png"
+      ]
+    }
+  ],
+  "joveesGlow": [   {
+    "id": 1,
+    "des": "Revita Glow Vitamin C Combo Kit",
+    "MainImg": "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/v/i/vitamin_c_kit.png",
+    "title": "Revita Glow Vitamin C Combo Kit",
+    "category": "glow",
+    "rating":5 ,
+    "price": 1095,
+    "Review": 5,
+    "size": [
+    250
+    ],
+    "imgs": [
+      "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/v/i/vitamin_c_kit.png",
+      "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/v/i/vitamin_c_kit_back.png"
+    ]
+  },
+  {
+    "id": 2,
+    "des": "Firm/Hydrated/Glowing Wrinkle free skin",
+    "MainImg": "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/6/1/61fz4hndi2l._sy450_.jpg",
+    "title": "Revita Glow Vitamin C Serum",
+    "category": "glow",
+    "rating": 5,
+    "price": 545,
+    "Review": 3,
+    "size": [
+    30
+    ],
+    "imgs": [
+      "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/6/1/61fz4hndi2l._sy450_.jpg",
+      "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/v/i/vitamin_c_face_serum_mono.png",
+      "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/6/1/61cudyhhgel._sy450_.jpg",
+      "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/6/1/61pzbxovdal._sy450_.jpg",
+      "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/v/i/vitamin_c_face_serum_bottel.png",
+      "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/_/k/_k6a0649.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "des": "Bright/Firm Skin",
+    "MainImg": "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/i/m/image1_3_.jpg",
+    "title": "Revita Glow Vitamin C Face Cream",
+    "category": "glow",
+    "rating":4 ,
+    "price": 445,
+    "Review": 4,
+    "size": [
+    50
+    ],
+    "imgs": [
+      "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/i/m/image1_3_.jpg",
+      "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/i/m/image5_1_.jpg",
+      "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/i/m/image3_2_.jpg",
+      "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/i/m/image6.jpg",
+      "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/i/m/image9.jpg",
+      "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/i/m/image8.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "des": "Natural Glow/Brightening",
+    "MainImg": "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/v/i/vitamin_c_face_wash_front.png",
+    "title": "Revita Glow Vitamin C Face Wash",
+    "category": "glow",
+    "rating": 5,
+    "price": 195,
+    "Review": 1,
+    "size": [
+      75
+    ],
+    "imgs": [
+      "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/v/i/vitamin_c_face_wash_front.png",
+      "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/6/1/61i65wiwpql._sy450_.jpg",
+      "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/6/1/61shlev2fil._sy450_.jpg",
+      "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/6/1/61y76wjffhl._sy450_.jpg",
+      "https://jovees.com/media/catalog/product/cache/5c4bc2c3d3720a5cabc0a23ab84582f1/v/i/vitamin_c_face_wash_back.png"
+    ]
+  }]
 }
